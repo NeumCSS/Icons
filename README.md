@@ -30,28 +30,18 @@ TBA
 git submodule add https://github.com/NeumCSS/Icons .neum/Icons
 ```
 
-#### Linux / Mac
-
-```
-./.neum/Icons/install.sh
-```
-
-#### Windows
-
-TBA
-
-### Otherwise:
+### If you are not developing in a git project:
 
 ```sh
 git clone https://github.com/NeumCSS/Icons .neum/Icons
 ```
 
-#### Linux / Mac
+After you have ran that if you are on Linux / Mac run:
 
 ```
 ./.neum/Icons/install.sh
 ```
 
-#### Windows
+If you are on Windows run:
 
 TBA
